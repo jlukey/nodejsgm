@@ -21,7 +21,7 @@ greenlet==0.4.6
 ipaddr==2.1.11
 ipaddress==1.0.17
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jsonfield==2.0.2
 Markdown==2.6.6
 MarkupSafe==0.23

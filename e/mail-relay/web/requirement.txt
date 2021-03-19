@@ -24,7 +24,7 @@ django-classy-tags==0.7.2
 django-mptt==0.8.3
 django-nyt==0.9.9
 django-sekizai==0.9.0
-Jinja2==2.7.3
+Jinja2==2.11.3
 Markdown==2.6.6
 MarkupSafe==0.23
 Werkzeug==0.10.4
