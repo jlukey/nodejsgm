@@ -2,7 +2,7 @@ authres==1.0.1
 chardet==2.3.0
 Django==1.8
 django-classy-tags==0.7.2
-django-debug-toolbar==1.4
+django-debug-toolbar==1.11.1
 django-excel-response==1.0
 django-filter==0.11.0
 django-mptt==0.8.3
