@@ -42,6 +42,6 @@ sorl-thumbnail==12.3
 SPF2IP==1.0.4
 sqlparse==0.1.18
 supervisor==3.1.3
-urllib3==1.10.4
+urllib3==1.26.5
 Werkzeug==0.11.3
 wiki==0.1
