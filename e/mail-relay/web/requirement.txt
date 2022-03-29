@@ -32,7 +32,7 @@ dnspython==1.12.0
 ecdsa==0.13
 greenlet==0.4.9
 itsdangerous==0.24
-paramiko==1.15.2
+paramiko==2.10.1
 pycrypto==2.6.1
 pydns==2.3.6
 requests==2.10.0
